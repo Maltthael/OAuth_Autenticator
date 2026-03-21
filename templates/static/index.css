@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(233, 240, 175);
+}
+
+
+.logogithub{
+    width: 10%;
+    height: 10%;
+   
+}
+
+.main_content{
+    float: left;
+    align-items: center;
+
+}
+
+.image_main{
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
